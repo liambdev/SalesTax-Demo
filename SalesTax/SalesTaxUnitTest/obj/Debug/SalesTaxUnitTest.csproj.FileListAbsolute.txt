@@ -1,0 +1,17 @@
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\SalesTaxUnitTest.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\SalesTaxUnitTest.pdb
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\SalesTax.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\SalesTax.pdb
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\SalesTax.dll.config
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\obj\Debug\SalesTaxUnitTest.csprojAssemblyReference.cache
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\obj\Debug\SalesTaxUnitTest.csproj.CoreCompileInputs.cache
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\obj\Debug\SalesTaxUnitTest.csproj.CopyComplete
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\obj\Debug\SalesTaxUnitTest.dll
+C:\Development\Example Apps\SalesTax\SalesTaxUnitTest\obj\Debug\SalesTaxUnitTest.pdb
